@@ -1,0 +1,2 @@
+def Binary_to_Text(p1: str) -> str:
+  return p1.decode()
