@@ -1,0 +1,2 @@
+def TexttoBinary(p1: str) -> str:
+  return p1.encode(encoding='utf-8')
